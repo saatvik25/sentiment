@@ -12,6 +12,7 @@ This project implements a sentiment analysis model using a Random Forest classif
 - [Dependencies](#dependencies)
 - [License](#license)
 
+
 ## Getting Started
 
 ### Prerequisites
