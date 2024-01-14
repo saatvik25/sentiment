@@ -3,6 +3,7 @@
 ## Overview
 This project implements a sentiment analysis model using a Random Forest classifier. The model is trained on a dataset containing text reviews and their corresponding sentiment labels. The Flask web application allows users to input text, and the model predicts the sentiment of the input text as either positive, neutral, or negative.
 ## Contents
+
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
