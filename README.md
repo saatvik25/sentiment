@@ -17,7 +17,6 @@ This project implements a sentiment analysis model using a Random Forest classif
 - Install required Python packages: `pip install -r requirements.txt`
 ### Installation
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/your-username/sentiment-analysis.git
    cd sentiment-analysis
